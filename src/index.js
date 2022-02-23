@@ -56,4 +56,3 @@ const noticeInfo = () => {
         });
     }
 refs.search.addEventListener('input', debounce(searchInput, 500));
-
